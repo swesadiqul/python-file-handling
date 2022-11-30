@@ -1,0 +1,4 @@
+18 Welcome to write mode.
+18 Hello! Welcome to demofile.txt
+This file is for testing purposes.
+Good Luck!
